@@ -1,7 +1,5 @@
-# ContactSymfony
 
-# Projet Symfony
-Gestion de contact
+# Gestion de contact
 
 # Auteur
 Imane KHEMICI
